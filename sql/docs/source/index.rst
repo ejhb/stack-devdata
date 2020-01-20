@@ -7,7 +7,7 @@ Welcome to sql's documentation!
 ===============================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :numbered:
 
    SQL

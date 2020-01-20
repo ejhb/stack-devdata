@@ -1,5 +1,5 @@
 Système de gestion de base de donné   
-====
+===================================
 
 Intro
 -----
@@ -11,7 +11,7 @@ Dans la pratique, un SGBD peut être utilisé pour rechercher ou trier des infor
 On retrouve les systèmes de gestion de base de données dans de nombreuses applications informatiques comme dans les logiciels de réservation, les guichets automatiques des banques, les logiciels d'inventaire, etc.
 
 Exemple de SGBD
-------------------------
+---------------
 
 Oracle est un SGBD relationnel (et relationnel-objet dans ses dernières versions) très reconnu pour les applications professionnelles.
 
